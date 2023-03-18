@@ -16,7 +16,7 @@ To run this project, install it locally:
 - $ cd case-study-sendinblue
 - $ node emailBuilder.js
 
-Important: For this project, an API key is need, which can be generated at https://app.sendinblue.com/settings/keys/api
+Important: For this project, an API key is needed, which can be generated at https://app.sendinblue.com/settings/keys/api
 
 ## API Reference
 
